@@ -6,6 +6,10 @@ sites:
     url: https://refrakt.app
     icon: https://refrakt.app/pfp.png
     maxResponseTime: 10000
+  - name: Refrakt API
+    url: https://refrakt.app/api/health
+    icon: https://refrakt.app/pfp.png
+    maxResponseTime: 10000
 
 status-website:
   cname: status.refrakt.app
