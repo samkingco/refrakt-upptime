@@ -5,19 +5,17 @@
     "icon": "https://refrakt.app/pfp.png",
     "slug": "refrakt",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 522,
-    "timeDay": 440,
-    "timeWeek": 664,
-    "timeMonth": 522,
-    "timeYear": 522,
-    "dailyMinutesDown": {
-      "2023-06-05": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 513,
+    "timeDay": 401,
+    "timeWeek": 637,
+    "timeMonth": 513,
+    "timeYear": 513,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Refrakt API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 31,
-    "timeWeek": 289,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 175,
+    "timeDay": 73,
+    "timeWeek": 273,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]
