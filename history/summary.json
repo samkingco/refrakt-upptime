@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
+    "time": 457,
     "timeDay": 313,
     "timeWeek": 349,
     "timeMonth": 318,
-    "timeYear": 458,
-    "dailyMinutesDown": {}
+    "timeYear": 457,
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   },
   {
     "name": "Refrakt API",
