@@ -1,7 +1,7 @@
 url: https://refrakt.app/api/health
-status: down
-code: 500
-responseTime: 1116
-lastUpdated: 2024-01-17T21:40:35.060Z
+status: up
+code: 200
+responseTime: 1383
+lastUpdated: 2024-01-17T21:57:59.015Z
 startTime: 2023-05-15T23:13:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
