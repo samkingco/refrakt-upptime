@@ -24,18 +24,19 @@
     "url": "https://refrakt.app/api/health",
     "icon": "https://refrakt.app/pfp.png",
     "slug": "refrakt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 201,
-    "timeWeek": 156,
-    "timeMonth": 177,
+    "timeDay": 163,
+    "timeWeek": 152,
+    "timeMonth": 175,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2024-07-24": 0,
       "2024-01-17": 17
     }
   }
