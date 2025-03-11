@@ -4,18 +4,19 @@
     "url": "https://refrakt.app",
     "icon": "https://refrakt.app/pfp.png",
     "slug": "refrakt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
+    "time": 424,
     "timeDay": 160,
     "timeWeek": 297,
     "timeMonth": 307,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2025-03-11": 0,
       "2024-10-22": 26
     }
   },
