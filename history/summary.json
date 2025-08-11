@@ -4,7 +4,7 @@
     "url": "https://refrakt.app",
     "icon": "https://refrakt.app/pfp.png",
     "slug": "refrakt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1278,
     "timeYear": 678,
     "dailyMinutesDown": {
+      "2025-08-11": 0,
       "2025-07-16": 18,
       "2025-05-12": 25,
       "2025-04-03": 35,
@@ -27,7 +28,7 @@
     "url": "https://refrakt.app/api/health",
     "icon": "https://refrakt.app/pfp.png",
     "slug": "refrakt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +40,7 @@
     "timeMonth": 108,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2025-08-11": 0,
       "2025-07-16": 18,
       "2025-05-12": 25,
       "2025-05-04": 96,
